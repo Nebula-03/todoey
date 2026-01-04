@@ -1,16 +1,25 @@
-# todoey
+**Todoey – To-Do List Application**
 
-A new Flutter project.
+Todoey is a clean and minimal to-do list mobile application built using Flutter. The app focuses on efficient task management with a simple user interface and smooth user interactions.
 
-## Getting Started
+State management is implemented using Provider, enabling real-time UI updates when tasks are added, updated, or removed. The project demonstrates a clear separation of UI and business logic while following Flutter best practices and Material Design principles.
 
-This project is a starting point for a Flutter application.
+🛠 Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Provider (State Management)
+
+Material UI
+
+📘 What I Learned
+
+Implementing state management in Flutter using Provider
+
+Managing and updating UI state efficiently
+
+Building clean and reusable widgets
+
+Structuring Flutter projects for better readability and maintainability
